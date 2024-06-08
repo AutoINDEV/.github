@@ -4,10 +4,10 @@ Who where the first humans to tell their stories in caves, connecting the art, n
 
 (Shape the World, how will desire)
 
-Hello, we are INDEV, the parent company of all INDEV subcompanies. For a better world, we will learn new horizons with art, nature and science, so that we can generate a future in life, how we will, how and where.
+Hello, we are AutoINDEV, the parent company of all AutoINDEV subcompanies. For a better world, we will learn new horizons with art, nature and science, so that we can generate a future in life, how we will, how and where.
 
 -- Saúl Alejandro Gonzalez
 
-INDEV - https://indev-inc.github.io/Indev/
+AutoINDEV - [AutoINDEV](https://AutoINDEV.github.io/AutoINDEV/)
 
-X = https://twitter.com/INDEV_Inc
+X = [https://twitter.com/INDEV_Inc](https://x.com/AutoINDEV)
